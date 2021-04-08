@@ -1,5 +1,7 @@
-## Counter
-[Link al sito](https://albertotoia.github.io/counter/)
+# Counter
+
+## Provalo con il seguente link
+(https://albertotoia.github.io/counter/)
 
 > Il progetto è stato creato per il 99% usando JavaScript.
 
