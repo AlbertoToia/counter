@@ -81,13 +81,13 @@ setBorder(valueDiv, "center");
 let currentValue = Number(valueDiv.textContent)
 
 //Click sul +
-plusDiv.addEventListener("click", (event) =>{
+plusDiv.addEventListener("click", () =>{
     currentValue++;
     valueDiv.textContent = currentValue;
 });
 
 //Click sul -
-minusDiv.addEventListener("click", (event) =>{
+minusDiv.addEventListener("click", () =>{
     currentValue--;
     valueDiv.textContent = currentValue;
 });
