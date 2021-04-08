@@ -1,4 +1,6 @@
-## About The Project
+## Counter
+[Link al sito](https://albertotoia.github.io/counter/)
+
 > Il progetto è stato creato per il 99% usando JavaScript.
 
 - index.html è vuoto.
