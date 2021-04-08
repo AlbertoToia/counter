@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.plus:hover{
+    transition: .3s;
+    background-color: rgb(105, 194, 87) !important;
+    cursor: pointer;
+}
+
+.minus:hover{
+    transition: .3s;
+    background-color: rgb(212, 90, 90) !important;
+    cursor: pointer;
+}
